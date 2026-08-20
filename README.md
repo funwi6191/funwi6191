@@ -61,6 +61,7 @@ When I'm not writing code, I'm exploring new tools, contributing to open source,
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MYSQL](https://img.shields.io/badge/Mysql-181717?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 **Currently Exploring**
@@ -104,14 +105,14 @@ When I'm not writing code, I'm exploring new tools, contributing to open source,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=f59e0b&text_color=e5e7eb" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&text_color=e5e7eb" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=funwi6191&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=f59e0b&text_color=e5e7eb" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funwi6191&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&text_color=e5e7eb" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=6AD3F7&ring=f59e0b&fire=f59e0b&currStreakLabel=6AD3F7" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=funwi6191&theme=tokyonight&hide_border=true&background=0d1117&stroke=6AD3F7&ring=f59e0b&fire=f59e0b&currStreakLabel=6AD3F7" width="60%"/>
 
 </div>
 
