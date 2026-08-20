@@ -69,7 +69,7 @@ I believe the best way to grow is to build, share, and collaborate. When I'm not
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![APACHE NETBEANS](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=apache-netbeans-idea&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 **Currently Exploring**
 
@@ -88,7 +88,7 @@ I design, build, and query relational databases as a core part of full stack dev
 - ✅ Designing normalized schemas from scratch
 - ✅ Writing complex queries — JOINs, subqueries, aggregations
 - ✅ Stored procedures, triggers, and views
-- ✅ Integrating MySQL with Java (JDBC / Spring Data JPA) and Python
+- ✅ Integrating MySQL with Java (JDBC / Spring Data JPA) 
 - ✅ Performance optimization — indexing, query analysis
 - ✅ Managing databases locally and in production environments
 
