@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;C%2B%2B+%7C+Java+%7C+Python+%7C+JS%2FTS;Building+things+that+matter+%F0%9F%94%A5;Always+learning%2C+always+shipping+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;C%2B%2B+%7C+Java+%7C+Python+%7C+JS%2FTS;MySQL+%7C+Spring+Boot+%7C+React;Building+things+that+matter+%F0%9F%94%A5;Always+learning%2C+always+shipping+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,21 +18,21 @@
 
 ```python
 developer = {
-    "name":       "[Funwi Checy]",
-    "role":       "Full Stack Developer",
-    "based_in":   "South Africa 🇿🇦",
-    "languages":  ["C++", "Java", "Python", "JavaScript", "TypeScript"],
-    "databases":  ["MySQL", "PostgreSQL"],
-    "learning":   ["System Design", "Cloud Architecture", "AI/ML"],
-    "building":   ["Web Apps", "Games", "Automation Tools"],
-    "open_to":    ["Freelance", "Collaborations", "Open Source"],
-    "fun_fact":   "I debug with print statements and I'm not sorry 😅"
+    "Name":       "Funwi Checy",
+    "Role":       "Full Stack Developer",
+    "Based_in":   "South Africa 🇿🇦",
+    "Languages":  ["C++", "Java", "Python", "JavaScript", "TypeScript"],
+    "Databases":  ["MySQL", "PostgreSQL"],
+    "Learning":   ["System Design", "Cloud Architecture", "AI/ML"],
+    "Building":   ["Web Apps", "Games", "Automation Tools"],
+    "Open_to":    ["Freelance", "Collaborations", "Open Source"],
+    "Fun_fact":   "I debug with print statements and I'm not sorry 😅"
 }
 ```
 
-I'm a **self-taught full stack developer** who turns ideas into working software. I enjoy building things across the entire stack — from writing low-level logic in **C++** and **Java**, to crafting smooth user interfaces with **JavaScript/TypeScript**, to scripting automation with **Python**. I believe the best way to grow is to build, share, and collaborate.
+I'm a **full stack developer** who turns ideas into working software. I enjoy building things across the entire stack — from writing low-level logic in **C++** and **Java**, to crafting smooth user interfaces with **JavaScript/TypeScript**, to scripting automation with **Python**, to designing and querying real databases with **MySQL**.
 
-When I'm not writing code, I'm exploring new tools, contributing to open source, or brainstorming the next project.
+I believe the best way to grow is to build, share, and collaborate. When I'm not writing code, I'm exploring new tools, contributing to open source, or brainstorming the next project.
 
 ---
 
@@ -48,21 +48,30 @@ When I'm not writing code, I'm exploring new tools, contributing to open source,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Tools**
+
+**Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MYSQL](https://img.shields.io/badge/Mysql-181717?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Android Studio](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=android-studio&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Netbeans](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=netbeans-idea&logoColor=white)
 
 **Currently Exploring**
 
@@ -74,23 +83,36 @@ When I'm not writing code, I'm exploring new tools, contributing to open source,
 
 ---
 
+## 🗄️ Database Skills
+
+I design, build, and query relational databases as a core part of full stack development. My primary database is **MySQL** — I'm comfortable with:
+
+- ✅ Designing normalized schemas from scratch
+- ✅ Writing complex queries — JOINs, subqueries, aggregations
+- ✅ Stored procedures, triggers, and views
+- ✅ Integrating MySQL with Java (JDBC / Spring Data JPA) and Python
+- ✅ Performance optimization — indexing, query analysis
+- ✅ Managing databases locally and in production environments
+
+---
+
 ## 🚀 What I Build
 
 <table>
   <tr>
     <td width="50%">
       <h3>🌐 Web Applications</h3>
-      <p>Full stack apps from database to deployment. I enjoy the challenge of making things work smoothly end-to-end — REST APIs, dynamic frontends, real data.</p>
+      <p>Full stack apps from database to deployment. MySQL-backed REST APIs, dynamic frontends, real data — built to actually work in production.</p>
     </td>
     <td width="50%">
       <h3>🎮 Games & Interactive Projects</h3>
-      <p>Building games teaches you to think algorithmically. I explore game logic, physics, and AI behaviour as a way to sharpen core programming skills.</p>
+      <p>Building games teaches algorithmic thinking. I explore game logic, state management, and AI behaviour to sharpen core programming skills.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>⚙️ Automation & Scripting</h3>
-      <p>If I'm doing something repetitive, I automate it. Reduce errors, and make life easier.</p>
+      <p>If I'm doing something repetitive, I automate it. Python scripts, database automation, and shell tools that save time and reduce errors.</p>
     </td>
     <td width="50%">
       <h3>🤝 Open Source Contributions</h3>
@@ -120,9 +142,10 @@ When I'm not writing code, I'm exploring new tools, contributing to open source,
 
 ## 🌱 Currently
 
-- 🔨 Building a **full stack Ballon d'Or voting system** with Spring Boot + real football API data
+- 🔨 Building a **full stack Ballon d'Or voting system** with Spring Boot + MySQL + real football API data
 - 📱 Learning **Flutter** for cross-platform mobile development
 - 🧠 Deepening my understanding of **data structures & algorithms** in C++
+- 🗄️ Exploring **advanced MySQL** — query optimization and database design patterns
 - 🌍 Looking for **collaborators** on interesting open source projects
 
 ---
