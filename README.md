@@ -21,7 +21,7 @@ developer = {
     "Name":       "Funwi Checy",
     "Role":       "Full Stack Developer",
     "Based_in":   "South Africa 🇿🇦",
-    "Languages":  ["C++", "Java", "Python", "JavaScript", "TypeScript"],
+    "Languages":  ["C++", "Java", "JavaScript", "TypeScript"],
     "Databases":  ["MySQL", "PostgreSQL"],
     "Learning":   ["System Design", "Cloud Architecture", "AI/ML"],
     "Building":   ["Web Apps", "Games", "Automation Tools"],
@@ -30,7 +30,7 @@ developer = {
 }
 ```
 
-I'm a **full stack developer** who turns ideas into working software. I enjoy building things across the entire stack — from writing low-level logic in **C++** and **Java**, to crafting smooth user interfaces with **JavaScript/TypeScript**, to scripting automation with **Python**, to designing and querying real databases with **MySQL**.
+I'm a **full stack developer** who turns ideas into working software. I enjoy building things across the entire stack — from writing low-level logic in **C++** and **Java**, to crafting smooth user interfaces with **JavaScript/TypeScript**, to designing and querying real databases with **MySQL**.
 
 I believe the best way to grow is to build, share, and collaborate. When I'm not writing code, I'm exploring new tools, contributing to open source, or brainstorming the next project.
 
@@ -44,7 +44,6 @@ I believe the best way to grow is to build, share, and collaborate. When I'm not
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -69,9 +68,8 @@ I believe the best way to grow is to build, share, and collaborate. When I'm not
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=android-studio&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Netbeans](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=netbeans-idea&logoColor=white)
+![APACHE NETBEANS](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=apache-netbeans-idea&logoColor=white)
 
 **Currently Exploring**
 
@@ -110,10 +108,6 @@ I design, build, and query relational databases as a core part of full stack dev
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>⚙️ Automation & Scripting</h3>
-      <p>If I'm doing something repetitive, I automate it. Python scripts, database automation, and shell tools that save time and reduce errors.</p>
-    </td>
     <td width="50%">
       <h3>🤝 Open Source Contributions</h3>
       <p>I believe in giving back to the community. Contributing to open source helps me learn from great codebases while adding real value.</p>
